@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1772168703775,
+      "tag": "0000_neat_white_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1772362187381,
+      "tag": "0001_fresh_harry_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1772377425021,
+      "tag": "0002_eminent_pride",
+      "breakpoints": true
+    }
+  ]
+}
